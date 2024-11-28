@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+ BOOLEAN_FUNCTION_MINIMIZATION
 
 NAME: RAGUL K R
 REG NO :24900660
@@ -16,12 +16,6 @@ Equipment Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
-Software – Quartus prime:
-
-Theory:
-
-Logic Diagram:
-
 Procedure:
 
 1.	Type the program in Quartus software.
@@ -35,7 +29,7 @@ Procedure:
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+Program:
  Program to implement the given logic function and to verify its operations in quartus using Verilog
  ![image](https://github.com/user-attachments/assets/c2cd0447-a958-488f-8ec9-470a4f95e63e)
 
